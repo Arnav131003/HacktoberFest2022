@@ -82,3 +82,4 @@ git push origin branch-name
 * **Also Make Sure you comment your code wherever necessary.**
 
 # Aaishika is Awesome!!!!!!
+# Event was awesome and one digital ocean t-shirt please!!
